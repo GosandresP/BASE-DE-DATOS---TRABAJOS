@@ -43,3 +43,5 @@ plt.tight_layout()  # Ajusta el diseño para que no se corten las etiquetas
 
 # Mostrar el gráfico
 plt.show()
+
+#hola mundo
